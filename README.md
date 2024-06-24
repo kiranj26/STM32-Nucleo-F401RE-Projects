@@ -2,6 +2,7 @@
 
 ## Introduction
 Welcome to the STM32 Nucleo F401RE Peripheral Examples repository! This repository contains a collection of bare metal examples demonstrating the use of various peripherals on the STM32 Nucleo F401RE microcontroller. Whether you are a beginner or an experienced developer, you'll find useful resources to explore the capabilities of the STM32 platform.
+![STM 32 Nucleo F401 RE](https://github.com/kiranj26/STM32-Nucleo-F401RE-Projects/assets/111842372/7fc3f1b8-c231-46ca-a1f5-5d643b84b610)
 
 ## Getting Started
 To get started with the STM32 Nucleo F401RE, you'll need to set up your development environment. Follow the steps below to set up your system:
